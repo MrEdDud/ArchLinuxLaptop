@@ -1,4 +1,4 @@
-# linux-laptop
+# My linux laptop
 
 *Why did I do this?*
 Basically, no reason. I saw a video showcasing Arch Linux, and I thought to myself, I want that, so here we are.
