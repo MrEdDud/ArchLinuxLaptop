@@ -1,12 +1,12 @@
 # linux-laptop
 
-Why did I do this? 
+*Why did I do this?*
 Basically, no reason. I saw a video showcasing Arch Linux, and I thought to myself, I want that, so here we are.
 
-Did I know anything about Linux before this?
+*Did I know anything about Linux before this?*
 Practically no.
 
-What did I learn by doing this?
+*What did I learn by doing this?*
 Crucial Linux skills and patience.
 
 ### **28th April 2025**
