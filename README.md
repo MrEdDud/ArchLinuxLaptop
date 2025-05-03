@@ -9,8 +9,6 @@ Practically no.
 *What did I learn by doing this?*
 Crucial Linux skills and patience.
 
-### If you want a shortened version of my story of installing Arch Linux, then here it is: After lots of days and restarts and errors, I was able to install Arch Linux with hyprland with practically no experience in Linux. This experience taught me a tremendous number of things about Linux.
-
 ### **28th April 2025**
 I started by going to the Arch Linux installation guide *(https://wiki.archlinux.org/title/Installation_guide)* where I started to read the installation process. I got the download file and used balenaEtcher to put it into a spare SSD I had. Now you may be thinking, why did I put it on an SSD? It's because I couldn't find a USB stick in my house.
 
