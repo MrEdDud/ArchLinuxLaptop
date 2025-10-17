@@ -35,3 +35,15 @@ Then I quickly installed yay. After this I try to set up i3 with all the other s
 ### **30th April 2025**
 
 Now, before starting doing stuff on my laptop, I was scrolling on YouTube and I found an incredible tutorial on how to install Arch Linux *(https://www.youtube.com/watch?v=68z11VAYMS8&list=LL&index=2)*. That's when I decided to wipe all of my work and start again to make sure that I install everything properly. Now keep in mind, before this point, all I was doing to install all the stuff I did was a mix of the Arch Linux wiki's and installation guides and ChatGPT, so when I followed this tutorial, it was like a breath of fresh air. I followed this tutorial exactly and it all went smoothly except for some points where I had to restart because I put too little memory in the boot partition and it took me some time to configure GRUB correctly. Now my issue with GRUB is that I tried to run this command *"grub-install /dev/mydisk"* but it gave me an error so ChatGPT told me to run this command *"grub-install --target=x86_64-efi --efi-directory=/boot --bootloader-id=GRUB"* and it worked.
+
+### **9th May 2025 and onwards**
+
+*From now on it will be more brief as I'm writing this much further in the future and have limited notes.*
+After completing the tutorial, it was time to install some more stuff. I started with pipewire so that I could have functioning audio and got many other apps, including dunst. Now I was still suffering from my issue with the wifi not connecting so I sued nmtui to partially fix it. Later I found out that my issue is that my ipv4 is not automatically configuring which I fixed my later by just putting a line of code (sudo dhclient wlo1) in my startup script.
+
+At around this point, I had decided I wanted to use hyprland because it looked cool, and began the process of installing hyprland. At the time, I didn't really understand which apps were compatible with hyprland and which ones were compatible with i3. I had to install many apps and uninstall many more, but eventually I managed to set up hyprland with waybar, a background picture with some very mediocre pricing.
+
+When it was all done and working, using Arch Linux with Hyprland is incredibly satisfying and quite a rewarding process to reach. I heavily enjoyed the customisation of everything and the fact that you have 0 bloatware and ads and whatnot. The only real issue that I faced and never fixed was the fact that I couldn't screen share on Discord but I never used discord on my laptop. Now, the reason I was speaking in past tense is because sadly I had to get rid of Arch for university, as maintaining Arch and also doing university work was just not worth the effort. Instead, I installed Windows 11 and made sure to install it with the least amount of bloat possible.
+
+*Will I install Arch Linux again in the future?* Probably, but I'll also probably not and find another cool distro to use
+*Was installing Arch worth it* At least for me, definitely, because even with all the issues standing in my way, it was very enjoyable and incredibly informative on how Linux works, and it was super satisfying and efficient to use Hyprland.
