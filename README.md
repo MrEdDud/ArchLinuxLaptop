@@ -39,6 +39,7 @@ Now, before starting doing stuff on my laptop, I was scrolling on YouTube and I 
 ### **9th May 2025 and onwards**
 
 *From now on it will be more brief as I'm writing this much further in the future and have limited notes.*
+
 After completing the tutorial, it was time to install some more stuff. I started with pipewire so that I could have functioning audio and got many other apps, including dunst. Now I was still suffering from my issue with the wifi not connecting so I sued nmtui to partially fix it. Later I found out that my issue is that my ipv4 is not automatically configuring which I fixed my later by just putting a line of code (sudo dhclient wlo1) in my startup script.
 
 At around this point, I had decided I wanted to use hyprland because it looked cool, and began the process of installing hyprland. At the time, I didn't really understand which apps were compatible with hyprland and which ones were compatible with i3. I had to install many apps and uninstall many more, but eventually I managed to set up hyprland with waybar, a background picture with some very mediocre pricing.
