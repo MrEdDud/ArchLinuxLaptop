@@ -47,4 +47,5 @@ At around this point, I had decided I wanted to use hyprland because it looked c
 When it was all done and working, using Arch Linux with Hyprland is incredibly satisfying and quite a rewarding process to reach. I heavily enjoyed the customisation of everything and the fact that you have 0 bloatware and ads and whatnot. The only real issue that I faced and never fixed was the fact that I couldn't screen share on Discord but I never used discord on my laptop. Now, the reason I was speaking in past tense is because sadly I had to get rid of Arch for university, as maintaining Arch and also doing university work was just not worth the effort. Instead, I installed Windows 11 and made sure to install it with the least amount of bloat possible.
 
 *Will I install Arch Linux again in the future?* Probably, but I'll also probably not and find another cool distro to use
+
 *Was installing Arch worth it* At least for me, definitely, because even with all the issues standing in my way, it was very enjoyable and incredibly informative on how Linux works, and it was super satisfying and efficient to use Hyprland.
