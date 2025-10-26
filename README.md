@@ -49,3 +49,6 @@ When it was all done and working, using Arch Linux with Hyprland is incredibly s
 *Will I install Arch Linux again in the future?* Probably, but I'll also probably not and find another cool distro to use
 
 *Was installing Arch worth it?* At least for me, definitely, because even with all the issues standing in my way, it was very enjoyable and incredibly informative on how Linux works, and it was super satisfying and efficient to use Hyprland.
+
+Here's the only screenshot I can find, which just shows you my partitions before I fully wiped Windows off my laptop
+![20250428_154042](https://github.com/user-attachments/assets/9960a6c0-e521-43a2-9058-0ac89f50f77d)
